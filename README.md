@@ -5,7 +5,7 @@ I implemented Q learning and SARSA using Java and JFrame on NetBeans IDE.
 JFrame was used for visualization of moving the agent. 
 
 
-# HOW TO RUN:
+HOW TO RUN:
 
 Click "RL.bat" to run the program or compile .java files with javac 
 or use Netbeans to open the folder "RL" and run it.
