@@ -28,10 +28,10 @@ blue block: drop location (full).
 
 yellow block: pick up location.
 
-<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture3.PNG" width="300" height="300" />
+<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture3.PNG" width="400" height="400" />
 
 <br>
 
 Q - TABLE Example: 
 
-<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture3.PNG" width="300" height="300" />
+<img src="hhttps://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture5.PNG" width="400" height="400" />
