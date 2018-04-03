@@ -32,6 +32,6 @@ yellow block: pick up location.
 
 <br>
 Q - TABLE Example: 
-<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture4.PNG" width="400" height="400" />
-<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture5.PNG" width="400" height="400" />
+<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture4.PNG" width="300" height="400" />
+<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture5.PNG" width="300" height="400" />
 
