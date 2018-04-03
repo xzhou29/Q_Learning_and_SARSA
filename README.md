@@ -20,4 +20,4 @@ Input a number for max moves to terminate: 1000 - 30000.
 Choose a moving speed for the agent: 1.very fast 2.normal 3.slow
 
 
-![alt text](https://i.pinimg.com/originals/d6/92/2f/d6922f02ad13b06356757499eae5831f.jpg)
+![alt text](https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture3.PNG)
