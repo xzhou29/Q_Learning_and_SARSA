@@ -21,3 +21,6 @@ Choose a moving speed for the agent: 1.very fast 2.normal 3.slow
 
 
 ![alt text](https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture3.PNG  | width=100)
+
+
+<img src="https://github.com/xzhou29/Q_Learning_and_SARSA/blob/master/Capture3.PNG" width="200" height="400" />
