@@ -1,0 +1,10 @@
+run#:    1 --- steps: 380 --- bank accounts: 36
+run#:    2 --- steps: 422 --- bank accounts: -6
+run#:    3 --- steps: 210 --- bank accounts: 206
+run#:    4 --- steps: 126 --- bank accounts: 290
+run#:    5 --- steps: 176 --- bank accounts: 240
+run#:    6 --- steps: 454 --- bank accounts: -38
+run#:    7 --- steps: 246 --- bank accounts: 170
+run#:    8 --- steps: 226 --- bank accounts: 190
+run#:    9 --- steps: 222 --- bank accounts: 194
+run#:   10 --- steps: 328 --- bank accounts: 88
